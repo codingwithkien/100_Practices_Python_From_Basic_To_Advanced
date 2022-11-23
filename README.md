@@ -1,2 +1,2 @@
-# 100_Pracices_Python_From_Basic_To_Advanced
-100_Pracices_Python_From_Basic_To_Advanced
+# 100_Practices_Python_From_Basic_To_Advanced
+100_Practices_Python_From_Basic_To_Advanced
